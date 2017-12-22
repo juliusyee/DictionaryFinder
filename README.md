@@ -1,0 +1,2 @@
+# DictionaryFinder
+Scrabble Simulator
